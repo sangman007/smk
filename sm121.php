@@ -1,6 +1,6 @@
 {
 "Version":"1.2",
-"Url":"https://github.com/sangman007/smk/blob/main/sm.zip",
+"Url":"https://github.com/sangman007/smk/raw/master/sm.zip",
 "Changelog":"--------------------------------------------------
 อัพเดท วันที่ 20 มกราคม 2564
 --------------------------------------------------
