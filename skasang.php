@@ -1,5 +1,5 @@
 {
-"Version":"1.6",
+"Version":"1.3",
 "Url":"https://github.com/sangman007/smk/raw/master/kasang.zip",
 "Changelog":"--------------------------------------------------
 อัพเดท วันที่ 29 มกราคม 2564
