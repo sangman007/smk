@@ -1,5 +1,5 @@
 {
-"Version":"1.6",
+"Version":"1.7",
 "Url":"https://github.com/sangman007/smk/raw/master/sm.zip",
 "Changelog":"--------------------------------------------------
 อัพเดท วันที่ 27 - 03 - 2564
